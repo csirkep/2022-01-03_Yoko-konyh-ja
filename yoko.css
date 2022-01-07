@@ -59,6 +59,9 @@ article {
 	overflow: auto;
 	width: 98%;
 }
+article a{
+	text-align: justify;
+}
 
 hgroup {
 	margin-top: 40px;
